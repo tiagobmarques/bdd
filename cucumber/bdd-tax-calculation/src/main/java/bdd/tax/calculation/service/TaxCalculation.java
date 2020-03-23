@@ -10,14 +10,6 @@ public class TaxCalculation {
         this.revenue = revenue;
     }
 
-    public BigDecimal getRevenue() {
-        return revenue;
-    }
-
-    public BigDecimal getTax() {
-        return tax;
-    }
-
     public void calculate() {
         BigDecimal rate;
         if (revenue.compareTo(BigDecimal.valueOf(180000)) <= 0) {

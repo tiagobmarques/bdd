@@ -1,7 +1,7 @@
 #language: pt
-Funcionalidade: : Calcular o Simples Nacional
+Funcionalidade: Calcular o Simples Nacional
 
-  Delineação do Cenário: : Calcular o valor final do imposto Simples Nacional
+  Delineação do Cenário: Calcular o valor final do imposto Simples Nacional
     Dado que eu tenho uma receita de <receita>
     Quando Eu executar o calculo do Simples Nacional
     Então Eu devo ter um imposto a pagar de <imposto>
