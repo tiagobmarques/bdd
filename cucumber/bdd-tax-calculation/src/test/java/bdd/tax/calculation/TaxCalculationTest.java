@@ -15,7 +15,7 @@ public class TaxCalculationTest {
     private double receita;
     public BigDecimal imposto;
 
-/*    @Given("que eu tenho uma receita de {double}")
+   /* @Given("que eu tenho uma receita de {double}")
     public void que_eu_tenho_uma_receita_de(Double double1) {
         this.receita = double1;
     }
@@ -31,8 +31,9 @@ public class TaxCalculationTest {
     public void eu_devo_ter_um_imposto_a_pagar_de(Double double1) {
         assertTrue(BigDecimal.valueOf(double1).compareTo(imposto) == 0);
     }*/
+/*
 
-    /*@Given("que eu tenho uma receita de {double}")
+    @Given("que eu tenho uma receita de {double}")
     public void que_eu_tenho_uma_receita_de(Double double1) {
         // Write code here that turns the phrase above into concrete actions
         throw new io.cucumber.java.PendingException();
@@ -48,6 +49,7 @@ public class TaxCalculationTest {
     public void eu_devo_ter_um_imposto_a_pagar_de(Double double1) {
         // Write code here that turns the phrase above into concrete actions
         throw new io.cucumber.java.PendingException();
-    }*/
+    }
+*/
 
 }

@@ -6,9 +6,9 @@ Funcionalidade: Calcular o Simples Nacional
     Quando Eu executar o calculo do Simples Nacional
     Então Eu devo ter um imposto a pagar de <imposto>
 
-    Exemplos: :
+    Exemplos:
     |receita    |imposto    |
-    |100000.00  | 4000.00   |
+    |100000.00  | 5000.00   |
     |200000.00  |14540.60   |
     |400000.00  |37861.40   |
 #    |800000.00  |85375.00   |
