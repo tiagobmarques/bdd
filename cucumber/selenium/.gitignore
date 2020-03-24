@@ -5,8 +5,6 @@
 build
 bin
 target
-.idea
-.settings
 
 .classpath
 .project
