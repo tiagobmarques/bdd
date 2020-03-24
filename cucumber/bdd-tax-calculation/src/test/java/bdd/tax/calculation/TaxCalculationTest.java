@@ -12,10 +12,10 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 public class TaxCalculationTest {
-    private double receita;
+/*    private double receita;
     public BigDecimal imposto;
 
-   /* @Given("que eu tenho uma receita de {double}")
+    @Given("que eu tenho uma receita de {double}")
     public void que_eu_tenho_uma_receita_de(Double double1) {
         this.receita = double1;
     }
