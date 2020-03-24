@@ -8,6 +8,9 @@ target
 .idea
 .settings
 
+.classpath
+.project
+
 # Created by https://www.gitignore.io/api/java,intellij,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=java,intellij,visualstudiocode
 
