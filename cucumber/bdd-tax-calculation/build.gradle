@@ -44,5 +44,5 @@ dependencies {
 }
 
 application {
-    mainClassName = 'bdd.tax.calculation.App'
+    mainClassName = 'bdd.tax.calculation.TaxCalculationApp'
 }
